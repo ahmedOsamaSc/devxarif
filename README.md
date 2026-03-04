@@ -1,68 +1,62 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=120&section=header&text=Ahmed%20Osama&fontSize=48&fontColor=ffffff&animation=fadeIn"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Front-End+Developer;React+%7C+Next.js+%7C+JavaScript;Building+Modern+User+Experiences"
+  />
+</p>
+
 ---
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=120&section=header&text=Arif&fontSize=48&fontColor=ffffff&animation=fadeIn"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Laravel+%7C+Vue+%7C+Nuxt+%7C+Cloud"
-  />
-</p>
-
 
 ## 🚀 About Me
 
-I’m a **passionate Full-Stack Developer** with strong expertise in **PHP, Laravel, JavaScript, Vue.js, and Nuxt.js**, along with solid experience in **server & cloud infrastructure**.
+I’m a **Front-End Developer** passionate about building **modern, responsive, and high-performance web applications**.
 
-* 🧠 Strategic problem solver with **20+ production-ready projects**
-* 🏗️ Architected **SaaS platforms, marketplaces, and enterprise systems**
-* 🤝 Team leader, mentor, and innovation-driven engineer
-* ⚡ Focused on **scalability, performance, and clean code**
+* 🎯 Focused on creating smooth **UI/UX experiences**
+* ⚡ Specialized in **React.js & modern JavaScript**
+* 🧩 Love turning designs into interactive, pixel-perfect interfaces
+* 🚀 Always improving performance & clean architecture
 
 ---
 
 ## 🏢 Currently
 
-* 🌱 Learning **React.js, Node.js, Next.js**
-* 👨‍💻 Portfolio: [**https://devarif.co**](https://devarif.co)
-* 💪 WakaTime: [**https://wakatime.com/@devboyarif**](https://wakatime.com/@devboyarif)
-* ⭐ LeetCode: [**https://leetcode.com/devboyarif**](https://leetcode.com/devboyarif)
-* 📫 Email: [**arif.fullstackdev@gmail.com**](mailto:arif.fullstackdev@gmail.com)
+* 🌱 Learning **Advanced React Patterns & Next.js**
+* 💼 Working on real-world front-end projects
+* 📚 Improving problem solving & system design
 
----
-
-## 🌐 Connect With Me
+📫 Email: **yourmail@gmail.com**  
+🌍 Portfolio: **your-portfolio-link.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-HTML • CSS • Bootstrap • JavaScript • TypeScript • Vue.js • Nuxt.js • Alpine.js
+HTML • CSS • Sass • Tailwind • Bootstrap  
+JavaScript • TypeScript  
+React.js • Next.js  
 
-### Backend
+### 🧠 Tools & Workflow
 
-PHP • Laravel • Livewire • REST APIs • Authentication • Payment Systems
-
-### Database & DevOps
-
-MySQL • Ubuntu • Git • DigitalOcean • AWS • CI/CD
-
-### Tools
-
-VS Code • Postman • GitHub • WakaTime
+Git • GitHub • VS Code • Figma  
+REST APIs • Responsive Design • Performance Optimization  
 
 ---
 
 ## 📊 GitHub Analytics
 
+(تقدر تضيف هنا GitHub Stats Card لو حابب)
+
 ---
 
 ### ✨ Philosophy
 
-> *“Great software is built at the intersection of clean code, strong architecture, and real business value.”*
+> *“Great UI is not just about design — it's about experience, performance, and usability.”*
 
 ⭐ If you like my work, feel free to **follow**, **star**, or **collaborate**.
